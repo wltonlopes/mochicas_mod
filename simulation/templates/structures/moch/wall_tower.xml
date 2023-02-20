@@ -5,14 +5,14 @@
     <Height>15.0</Height>
   </Footprint>
   <Identity>
-    <Civ>gara</Civ>
+    <Civ>moch</Civ>
     <SpecificName></SpecificName>
   </Identity>
   <Obstruction>
     <Static width="7.5" depth="7.5"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/garamantians/wall_tower.xml</Actor>
+    <Actor>structures/mochicas/wall_tower.xml</Actor>
   </VisualActor>
     <WallPiece>
     <Length>11</Length>

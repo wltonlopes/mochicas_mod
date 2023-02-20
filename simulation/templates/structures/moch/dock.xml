@@ -8,14 +8,14 @@
     <SpawnEntityOnDeath>decay|rubble/rubble_hele_dock</SpawnEntityOnDeath>
   </Health>
   <Identity>
-    <Civ>gara</Civ>
+    <Civ>moch</Civ>
     <SpecificName>Limḗn</SpecificName>
   </Identity>
   <Obstruction>
     <Static width="22.0" depth="26.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/garamantians/dock.xml</Actor>
+    <Actor>structures/mochicas/dock.xml</Actor>
     <FoundationActor>structures/fndn_6x4_dock.xml</FoundationActor>
   </VisualActor>
 </Entity>

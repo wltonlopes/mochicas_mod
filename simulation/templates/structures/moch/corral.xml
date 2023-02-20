@@ -8,14 +8,14 @@
     <SpawnEntityOnDeath>decay|rubble/rubble_3x3</SpawnEntityOnDeath>
   </Health>
   <Identity>
-    <Civ>gara</Civ>
+    <Civ>moch</Civ>
   <GenericName>Corral</GenericName>
   </Identity>
   <Obstruction>
     <Static width="8.0" depth="14.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/garamantians/corral.xml</Actor>
+    <Actor>structures/mochicas/corral.xml</Actor>
     <FoundationActor>structures/fndn_3x3.xml</FoundationActor>
   </VisualActor>
 </Entity>

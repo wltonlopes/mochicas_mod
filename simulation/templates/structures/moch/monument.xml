@@ -52,7 +52,7 @@
   </Sound>
   <TerritoryDecay disable=""/>
   <VisualActor>
-    <Actor>structures/garamantians/masoleu.xml</Actor>
+    <Actor>structures/mochicas/masoleu.xml</Actor>
     <FoundationActor>structures/fndn_2x2.xml</FoundationActor>
   </VisualActor>
 </Entity>

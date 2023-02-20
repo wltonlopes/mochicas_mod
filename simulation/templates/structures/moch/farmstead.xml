@@ -7,14 +7,14 @@
     <SpawnEntityOnDeath>decay|rubble/rubble_stone_4x2</SpawnEntityOnDeath>
   </Health>
   <Identity>
-    <Civ>gara</Civ>
+    <Civ>moch</Civ>
     <SpecificName>Sitobólion</SpecificName>
   </Identity>
   <Obstruction>
     <Static width="16.0" depth="11.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/garamantians/farmstead.xml</Actor>
+    <Actor>structures/mochicas/farmstead.xml</Actor>
     <FoundationActor>structures/fndn_4x2.xml</FoundationActor>
   </VisualActor>
 </Entity>

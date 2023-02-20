@@ -5,7 +5,7 @@
     <Height>15.0</Height>
   </Footprint>
   <Identity>
-    <Civ>gara</Civ>
+    <Civ>moch</Civ>
     <SpecificName>Pyrgíon</SpecificName>
   </Identity>
   <Obstruction>
@@ -15,6 +15,6 @@
     <HeightOffset>22.0</HeightOffset>
   </StatusBars>
   <VisualActor>
-    <Actor>structures/garamantians/defense_tower.xml</Actor>
+    <Actor>structures/mochicas/defense_tower.xml</Actor>
   </VisualActor>
 </Entity>

@@ -5,7 +5,7 @@
     <Height>9.0</Height>
   </Footprint>
   <Identity>
-    <Civ>gara</Civ>
+    <Civ>moch</Civ>
     <SpecificName>Pýlai</SpecificName>
   </Identity>
   <Obstruction>
@@ -16,6 +16,6 @@
     </Obstructions>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/garamantians/wall_gate.xml</Actor>
+    <Actor>structures/mochicas/wall_gate.xml</Actor>
   </VisualActor>
 </Entity>

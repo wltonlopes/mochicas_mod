@@ -2,7 +2,7 @@
 <Entity parent="template_structure_wonder">
   <GarrisonHolder disable=""/>
   <Identity>
-    <Civ>gara</Civ>
+    <Civ>moch</Civ>
   </Identity>
   <ProductionQueue disable=""/>
   <RallyPoint disable=""/>
@@ -10,6 +10,6 @@
     <HeightOffset>8.0</HeightOffset>
   </StatusBars>
   <VisualActor>
-    <Actor>structures/garamantians/wonder.xml</Actor>
+    <Actor>structures/mochicas/wonder.xml</Actor>
   </VisualActor>
 </Entity>
