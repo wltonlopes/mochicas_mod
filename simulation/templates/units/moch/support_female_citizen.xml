@@ -2,18 +2,17 @@
 <Entity parent="template_unit_support_female_citizen">
     <Builder>
     <Entities datatype="tokens">
-      structures/gara/camp_caravan
-      structures/gara/monument
+      structures/moch/monument
     </Entities>
   </Builder>
   <Identity>
-    <Civ>gara</Civ>
+    <Civ>moch</Civ>
     <SpecificName>Gýnē Athēnaía</SpecificName>
-    <GenericName>gara Woman</GenericName>
+    <GenericName>moch Woman</GenericName>
     <Icon>units/hele_support_female_citizen.png</Icon>
-    <SelectionGroupName>units/gara_support_female_citizen</SelectionGroupName>
+    <SelectionGroupName>units/moch_support_female_citizen</SelectionGroupName>
   </Identity>
   <VisualActor>
-    <Actor>units/garamantians/female_citizen.xml</Actor>
+    <Actor>units/mochicas/female_citizen.xml</Actor>
   </VisualActor>
 </Entity>

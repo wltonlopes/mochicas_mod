@@ -5,7 +5,7 @@
     <Height>8.0</Height>
   </Footprint>
   <Identity>
-    <Civ>gara</Civ>
+    <Civ>moch</Civ>
     <SpecificName>Seḥer</SpecificName>
     <Tooltip>Trade between docks. Garrison a Trader aboard for additional profit (+20% for each garrisoned). Gather profitable aquatic treasures. Carthaginians have +25% sea trading bonus.</Tooltip>
     <Icon>units/cart_ship_merchant.png</Icon>
