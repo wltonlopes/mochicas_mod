@@ -9,10 +9,10 @@
     <Civ>moch</Civ>
     <SpecificName>Gýnē Athēnaía</SpecificName>
     <GenericName>moch Woman</GenericName>
-    <Icon>units/hele_support_female_citizen.png</Icon>
-    <SelectionGroupName>units/moch_support_female_citizen</SelectionGroupName>
+    <Icon>units/moch/support_female_citizen.png</Icon>
+    <SelectionGroupName>units/moch/support_female_citizen</SelectionGroupName>
   </Identity>
   <VisualActor>
-    <Actor>units/mochicas/female_citizen.xml</Actor>
+    <Actor>units/mochicas/citizen_female.xml</Actor>
   </VisualActor>
 </Entity>

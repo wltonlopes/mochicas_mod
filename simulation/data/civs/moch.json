@@ -1,5 +1,5 @@
 {	"Code": "moch",
-	"Culture": "moch",
+	"Culture": "Andeanea",
 	"Music": [
 		{
 			"File": "An_old_Warhorse_goes_to_Pasture.ogg",
@@ -89,7 +89,7 @@
 			"Count": 4
 		},
 		{
-			"Template": "units/moch/infantry_swordsman_b",
+			"Template": "units/moch/infantry_maceman_b",
 			"Count": 2
 		},
 		{
@@ -97,7 +97,7 @@
 			"Count": 2
 		},
 		{
-			"Template": "units/moch/cavalry_javelineer_b"
+			"Template": "units/moch/cavalry_swordsman_b"
 	    }
 	 ],
 	"AINames": [
@@ -106,9 +106,9 @@
 		"Táutalo"
 	],
 	"SkirmishReplacements": {
-		"skirmish/units/default_infantry_melee_b": "units/moch/infantry_swordsman_b",
+		"skirmish/units/default_infantry_melee_b": "units/moch/infantry_maceman_b",
 		"skirmish/structures/default_house_5": "structures/{civ}/house",
-		"skirmish/units/default_cavalry": "units/moch/cavalry_javelineer_b"
+		"skirmish/units/default_cavalry": "units/moch/cavalry_swordsman_b"
 	},
 	"SelectableInGameSetup": true
 }

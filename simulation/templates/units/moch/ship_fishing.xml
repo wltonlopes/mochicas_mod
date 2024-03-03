@@ -6,6 +6,6 @@
     <Icon>units/hele_ship_fishing.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>structures/ptolemies/fishing_boat.xml</Actor>
+    <Actor>structures/mochicas/fishing_ship.xml</Actor>
   </VisualActor>
 </Entity>
