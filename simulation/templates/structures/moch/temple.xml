@@ -13,6 +13,6 @@
   </Obstruction>
   <VisualActor>
     <Actor>structures/mochicas/temple.xml</Actor>
-    <FoundationActor>props/special/eyecandy/greek_temple_unfinished.xml</FoundationActor>
+    <!-- <FoundationActor>props/special/eyecandy/greek_temple_unfinished.xml</FoundationActor> -->
   </VisualActor>
 </Entity>

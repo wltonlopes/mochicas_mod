@@ -39,28 +39,6 @@
     </variant>
   </group>
   <group>
-    <variant frequency="100" name="tunic_02_01">
-      <textures>
-        <texture file="skeletal/moch/skirt_basic_02_01.png" name="baseTex"/>
-      </textures>
-    </variant>
-    <variant frequency="100" name="tunic_02_02">
-      <textures>
-        <texture file="skeletal/moch/skirt_basic_02_02.png" name="baseTex"/>
-      </textures>
-    </variant>
-    <variant frequency="100" name="tunic_02_03">
-      <textures>
-        <texture file="skeletal/moch/skirt_basic_02_03.png" name="baseTex"/>
-      </textures>
-    </variant>
-    <variant frequency="100" name="tunic_02_04">
-      <textures>
-        <texture file="skeletal/moch/skirt_basic_02_04.png" name="baseTex"/>
-      </textures>
-    </variant>
-  </group>
-  <group>
     <variant frequency="100" name="Idle"/>
     <variant file="biped/attack_ranged_slinger.xml"/>
     <variant file="biped/attack_capture.xml"/>

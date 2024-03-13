@@ -28,8 +28,8 @@
     <SpawnEntityOnDeath>decay|rubble/rubble_stone_2x2</SpawnEntityOnDeath>
   </Health>
   <Identity>
-    <Civ>gara</Civ>
-    <GenericName>Revered Masoleu</GenericName>
+    <Civ>moch</Civ>
+    <GenericName>Palace</GenericName>
     <SpecificName></SpecificName>
     <Classes datatype="tokens">CivSpecific</Classes>
     <VisibleClasses datatype="tokens">Monument</VisibleClasses>

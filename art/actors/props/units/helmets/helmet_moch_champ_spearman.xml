@@ -5,8 +5,8 @@
     <variant frequency="100" name="Base">
       <textures>
         <texture file="props/moch_props.png" name="baseTex"/>
-        <!-- <texture file="props/moch_props_norm.png" name="normTex"/>
-        <texture file="props/moch_props_spec.png" name="specTex"/> -->
+        <texture file="default_norm.png" name="normTex"/>
+        <texture file="null_black.dds" name="specTex"/>
       </textures>
     </variant>
   </group>
@@ -15,5 +15,5 @@
       <mesh>props/helmet/helmet_moch_champ_spearman_1.dae</mesh>
     </variant>
   </group>
-  <material>player_trans.xml</material>
+  <material>player_trans_norm_spec.xml</material>
 </actor>

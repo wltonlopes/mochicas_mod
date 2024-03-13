@@ -5,7 +5,6 @@
   </Identity>
     <Trainer>
     <Entities datatype="tokens">
-      units/{civ}/chariot_javelineer_b   
     </Entities>
   </Trainer>
   <VisualActor>

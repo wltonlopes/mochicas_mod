@@ -101,9 +101,9 @@
 	    }
 	 ],
 	"AINames": [
-		"Cauceno",
-		"Césaro",
-		"Táutalo"
+		"Tacaynamo",
+		"Guacricaur",
+		"Ñancempinco"
 	],
 	"SkirmishReplacements": {
 		"skirmish/units/default_infantry_melee_b": "units/moch/infantry_maceman_b",

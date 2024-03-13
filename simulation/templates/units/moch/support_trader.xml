@@ -5,7 +5,7 @@
     <Height>6</Height>
   </Footprint>
   <Identity>
-    <Civ>gara</Civ>
+    <Civ>moch</Civ>
     <GenericName>Aramaean Merchant</GenericName>
     <SpecificName>Tamkarum Arami</SpecificName>
     <Icon>units/pers_support_trader.png</Icon>
@@ -25,6 +25,6 @@
     <GainMultiplier op="mul">1.25</GainMultiplier>
   </Trader>
   <VisualActor>
-    <Actor>units/persians/trader.xml</Actor>
+    <Actor>units/mochicas/trader.xml</Actor>
   </VisualActor>
 </Entity>

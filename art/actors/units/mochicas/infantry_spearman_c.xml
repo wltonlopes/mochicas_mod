@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
     <variant frequency="1" name="Base">
-      <mesh>skeletal/new/m_armor_pants_tunic_short.dae</mesh>
+      <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
       <props>
         <prop actor="props/units/heads/head_andean_north_coast_warrior_runner.xml" attachpoint="head"/>
         <prop actor="props/units/helmets/helmet_moch_champ_axeman.xml" attachpoint="head"/>
