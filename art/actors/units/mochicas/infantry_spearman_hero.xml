@@ -9,7 +9,8 @@
         <prop actor="props/units/helmets/helmet_moch_champ_axeman.xml" attachpoint="head"/>
         <prop actor="props/units/shields/moch_shield_s.xml" attachpoint="shield"/>
         <prop actor="props/units/weapons/moch_axe.xml" attachpoint="weapon_R"/>
-        <!-- <prop actor="props/units/heads/zapo_back_banner.xml" attachpoint="back"/> -->
+        <prop actor="props/units/armor/moch_greave_01_bronze_r.xml" attachpoint="leg_R"/>
+        <prop actor="props/units/armor/moch_greave_01_bronze_l.xml" attachpoint="leg_L"/>
       </props>
       <textures>
         <texture file="default_norm.png" name="normTex"/>
