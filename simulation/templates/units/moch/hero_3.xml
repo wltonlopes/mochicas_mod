@@ -4,7 +4,7 @@
       <Civ>moch</Civ>
     <GenericName>Supreme General</GenericName>
     <SpecificName>Supreme General</SpecificName>
-    <Icon>units/athen/hero_pericles.png</Icon>
+    <Icon>units/moch/hero_general.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/mochicas/hero_infantry_spearman.xml</Actor>

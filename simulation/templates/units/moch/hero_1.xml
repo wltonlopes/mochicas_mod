@@ -4,7 +4,7 @@
     <Civ>moch</Civ>
     <GenericName>Moche Monarch</GenericName>
     <SpecificName>Monarch</SpecificName>
-    <Icon>units/athen/hero_pericles.png</Icon>
+    <Icon>units/moch/hero_lord.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/mochicas/hero_infantry_spearman.xml</Actor>

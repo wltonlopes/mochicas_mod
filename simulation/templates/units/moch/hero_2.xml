@@ -4,7 +4,7 @@
       <Civ>moch</Civ>
     <GenericName>High priest</GenericName>
     <SpecificName>High priest</SpecificName>
-    <Icon>units/athen/hero_pericles.png</Icon>
+    <Icon>units/moch/hero_high_priest.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/mochicas/hero_infantry_maceman.xml</Actor>
